@@ -22,3 +22,4 @@ And the rules are:
 3) A day of voting will then take place (during the last lectures)
    in which the winning choreography will be decided,
    considered the most satisfying from the artistic point of view
+4) We must use mandatory positions and also intermadiate ones.
